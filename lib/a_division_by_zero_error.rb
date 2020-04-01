@@ -2,4 +2,4 @@
 
 42 / 0
 
-greeting
+greeting =
