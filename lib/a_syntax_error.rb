@@ -1,5 +1,2 @@
-i = 0
-while i < zone.length do
-  puts i
-  i += 1
-end
+arr = [1, 2, 3, 4, 5]
+arr.include?(5)
